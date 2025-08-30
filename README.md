@@ -10,6 +10,9 @@ The goal is to build a **reproducible research pipeline** that supports end-to-e
 ## Research Question
 > Can we predict diabetes risk based on demographic, behavioral, and health indicators?
 
+## Dataset
+From: https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset?resource=download
+
 ## Features
 - End-to-end ML pipeline (preprocessing → training → evaluation).
 - Baseline models: Logistic Regression, Random Forest, XGBoost.
